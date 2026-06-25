@@ -1,5 +1,3 @@
-
-
 #include <iostream>
 #define TAX_RATE 0.12 
 
