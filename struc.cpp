@@ -29,7 +29,6 @@ namespace Abel {
 }
 
 int main() {
-    
     Abel::SnapchatFriend friend1("Joe", "Online");
     Abel::SnapchatFriend friend2("Jovani", "Offline");
     Abel::SnapchatFriend friend3("Sophia", "Busy");
@@ -41,8 +40,6 @@ int main() {
 
     
     Abel::displayValue("Hello, Snapchat!");
-
-    
 
     return 0;
 }
